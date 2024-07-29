@@ -9,122 +9,113 @@ import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterk
 
 export const products = [
   {
-    href: "https://aceternity.com",
-    title: "Aceternity",
+    href: "https://github.com/gr8monk3ys/TALKER",
+    title: "Talker",
     description:
-      "A design and development studio that focuses on building quality apps.",
+      "An open source teaching assistant RAG leveraging OLlama2 with a FAISS knowledge base.",
     thumbnail: sidefolioAceternity,
     images: [sidefolioAceternity, sidefolioAceternity2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "aceternity",
+    stack: ["Python", "FAISS", "OLlama2"],
+    slug: "talker",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Implemented and collaborated on an open source teaching assistant RAG
+          leveraging OLlama2 with a FAISS knowledge base, answering students’
+          questions based on class criteria, syllabus, and slides, increasing
+          student engagement by 30%.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
+          Included features of providing multi-modal results to queries from
+          classrooms such as YouTube videos with video time queues based on
+          question context, enhancing learning efficiency by 25%.
+        </p>
       </div>
     ),
   },
   {
-    href: "https://algochurn.com",
-    title: "Algochurn",
+    href: "https://github.com/gr8monk3ys/BLOGBOT-AI",
+    title: "BlogBot-AI",
     description:
-      "Practice for technical interviews with hands on coding challenges.",
+      "An automated blog content generation system using OpenAI’s GPT-3.5-turbo model and Langchain.",
     thumbnail: sidefolioAlgochurn,
     images: [sidefolioAlgochurn, sidefolioAlgochurn2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "algochurn",
+    stack: ["Python", "OpenAI GPT-3.5-turbo", "Langchain"],
+    slug: "blogbot-ai",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Constructed an automated blog content generation system using OpenAI’s
+          GPT-3.5-turbo model and Langchain.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
+          Accomplished workflows for generating SEO-optimized blog titles,
+          descriptions, and detailed sections.
+        </p>
+        <p>
+          Utilized Python and ConversationBufferMemory for maintaining context
+          and orchestrating tasks.
+        </p>
       </div>
     ),
   },
   {
-    href: "https://gomoonbeam.com",
-    title: "Moonbeam",
+    href: "https://github.com/gr8monk3ys/LinkFlame",
+    title: "LinkFlame",
     description:
-      "Never write from scratch again with Moonbeam, your AI first writing tool",
+      "A powerful link management tool designed to simplify and enhance your digital marketing strategies.",
     thumbnail: sidefolioMoonbeam,
     images: [sidefolioMoonbeam, sidefolioMoonbeam2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "moonbeam",
+    stack: ["React", "Node.js", "MongoDB"],
+    slug: "linkflame",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          LinkFlame is a comprehensive link management tool developed to
+          streamline and optimize your digital marketing efforts. It provides
+          functionalities for creating, managing, and tracking links to ensure
+          maximum engagement and performance.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
+          Leveraging modern technologies like React for the frontend, Node.js
+          for the backend, and MongoDB for the database, LinkFlame offers a
+          robust and scalable solution for marketers and businesses looking to
+          enhance their online presence.
+        </p>
+        <p>
+          Key features include detailed analytics, customizable link appearance,
+          and seamless integration with various marketing platforms, making it
+          an indispensable tool for any digital marketing strategy.
+        </p>
       </div>
     ),
   },
   {
-    href: "https://tailwindmasterkit.com",
-    title: "Tailwind Master Kit",
+    href: "https://github.com/gr8monk3ys/Paper-Summarizer",
+    title: "Paper Summarizer",
     description:
-      "A beautiful and comprehensive Tailwind CSS components library for building modern websites and applications.",
+      "A tool for summarizing academic papers using advanced NLP techniques.",
     thumbnail: sidefolioTailwindMasterKit,
     images: [sidefolioTailwindMasterKit, sidefolioTailwindMasterKit2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "tailwindmasterkit",
+    stack: ["Python", "NLP", "Transformers"],
+    slug: "paper-summarizer",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Developed a robust tool for summarizing academic papers using advanced
+          NLP techniques, facilitating quick comprehension of complex research
+          documents.
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
+          Leveraged state-of-the-art transformers to extract key points and
+          generate concise summaries, enhancing the efficiency of academic
+          research.
+        </p>
+        <p>
+          Integrated with various data sources to allow seamless input of
+          research papers and articles, providing a versatile solution for
+          researchers and students alike.
+        </p>
       </div>
     ),
   },
