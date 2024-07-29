@@ -1,15 +1,15 @@
-import sidefolioAceternity from "public/images/sidefolio-aceternity-2.png";
-import sidefolioAceternity2 from "public/images/sidefolio-aceternity-2.png";
-import sidefolioAlgochurn from "public/images/sidefolio-algochurn.png";
-import sidefolioAlgochurn2 from "public/images/sidefolio-algochurn.png";
-import sidefolioMoonbeam from "public/images/sidefolio-moonbeam.png";
-import sidefolioMoonbeam2 from "public/images/sidefolio-moonbeam-2.png";
-import sidefolioTailwindMasterKit from "public/images/sidefolio-tailwindmasterkit.png";
-import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterkit-2.png";
+import sidefolioAceternity from "../../public/images/sidefolio-aceternity.png";
+import sidefolioAceternity2 from "../../public/images/sidefolio-aceternity-2.png";
+import sidefolioAlgochurn from "../../public/images/sidefolio-algochurn.png";
+import sidefolioAlgochurn2 from "../../public/images/sidefolio-algochurn.png";
+import sidefolioMoonbeam from "../../public/images/sidefolio-moonbeam.png";
+import sidefolioMoonbeam2 from "../../public/images/sidefolio-moonbeam-2.png";
+import sidefolioTailwindMasterKit from "../../public/images/sidefolio-tailwindmasterkit.png";
+import sidefolioTailwindMasterKit2 from "../../public/images/sidefolio-tailwindmasterkit-2.png";
 
 export const products = [
   {
-    href: "https://github.com/gr8monk3ys/TALKER",
+    href: "https://github.com/gr8monk3ys/TAlker",
     title: "Talker",
     description:
       "An open source teaching assistant RAG leveraging OLlama2 with a FAISS knowledge base.",
@@ -34,7 +34,7 @@ export const products = [
     ),
   },
   {
-    href: "https://github.com/gr8monk3ys/BLOGBOT-AI",
+    href: "https://github.com/gr8monk3ys/BlogBot-AI",
     title: "BlogBot-AI",
     description:
       "An automated blog content generation system using OpenAI’s GPT-3.5-turbo model and Langchain.",
