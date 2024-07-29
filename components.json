@@ -16,6 +16,7 @@
     "ui": "@/components/ui",
     "examples": "@/components/examples",
     "blocks": "@/components/blocks",
-    "images": "@/public/images" 
+    "images": "@/public/images",
+    "app": "@/src/app"
   }
 }
