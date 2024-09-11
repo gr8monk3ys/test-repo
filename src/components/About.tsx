@@ -77,17 +77,17 @@ export default function About() {
         </Paragraph>
         <Paragraph className="mt-4">
           Since the early days of my journey, I&apos;ve been captivated by the power
-          of data and the potential of machine learning. As a developer, I
-          thrive on transforming complex datasets into actionable insights. My
-          goal is to not just analyze data, but to create innov ative solutions
-          that drive impact and efficiency.
+          of data and the potential of machine learning. I have had a great passion for
+          computation since I was younger, being enabled by my curiosity and the ability
+          to problem solve.
         </Paragraph>
         <Paragraph className="mt-4">
-          But my journey doesn&apos;t stop at data science. With a heart full of
-          melodies and a mind brimming with strategies, I&apos;ve ventured into the
-          realms of music and chess. From composing tunes that resonate with
-          emotions to strategizing moves on the chessboard, I embrace creativity
-          and critical thinking in all aspects of life.
+          But my journey only begins with computation. My curiosity has 
+          taken me to many other places as well. I&apos;ve ventured into the
+          realms of music, movies, and chess. From composing and producing
+          songs that resonate with emotions to strategizing moves on the chessboard, 
+          I embrace creativity and critical thinking in all aspects of my life and 
+          will do so until I can no longer.
         </Paragraph>
         <Paragraph className="mt-4">
           What sets me apart is my unwavering passion for the outdoors. I
@@ -99,18 +99,12 @@ export default function About() {
         <Paragraph className="mt-4">
           Through this website, I aim to share my insights, experiences, and
           creations with you. Whether you&apos;re a fellow data scientist seeking
-          solutions, a musician in search of inspiration, or simply someone who
-          appreciates the beauty of nature, there&apos;s something here for you.
+          solutions, a musician in search of collaboration, or simply someone who
+          appreciates the beauty of the world we simply don&apos;t understand,
+          there&apos;s something here for you and hopefully we can find commonality.
         </Paragraph>
         <Paragraph className="mt-4">
-          Join me on this journey of data and melodies, logic and creativity,
-          analysis and adventure. Together, we can explore the boundless
-          possibilities of technology and artistry, all while reveling in the
-          sheer beauty of the natural world.
-        </Paragraph>
-        <Paragraph className="mt-4">
-          Thank you for being here, and I can&apos;t wait to embark on this adventure
-          with you.
+          Thank you for being here to listen to what I have to say.
         </Paragraph>
       </div>
     </div>
