@@ -12,7 +12,7 @@ import About from "@/components/About";
 export const metadata: Metadata = {
   title: "About | Lorenzo Scaturchio",
   description:
-    "Lorenzo Scaturchio is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
+    "Lorenzo Scaturchio is a developer, writer and musician.",
 };
 
 export default function AboutPage() {
